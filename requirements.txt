@@ -1,0 +1,10 @@
+# installed imgaug using:
+#   conda install -c conda-forge imgaug
+imgaug
+imageio
+opencv-python
+perception
+imagecorruptions
+imagehash
+PhotoHash
+# may not be complete
